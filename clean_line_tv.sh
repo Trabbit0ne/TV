@@ -22,9 +22,9 @@ N="\e[0m"
 # function to make TV art in ASCII
 function TV() {
     echo -e "            o           o                                                   "
-    echo -e "             \         /                                                    "
-    echo -e "              \       /                                                     "
-    echo -e "    ,__________\_____/_______________,                                      "
+    echo -e "             ╲         ╱                                                    "
+    echo -e "              ╲       ╱                                                     "
+    echo -e "    ,__________╲_____╱_______________,                                      "
     echo -e "   ╱            '    '              ╱│                                      "
     echo -e "  ╱________________________________╱ │                                      "
     echo -e "  │  ,__________________________,  │ │                                      "
